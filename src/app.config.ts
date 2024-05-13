@@ -1,12 +1,13 @@
 export default defineAppConfig({
   pages: [
-    'pages/user/index',
-    'pages/index/index'
+    'pages/index/index',
+    'pages/doQuestion/index',
+    'pages/result/index'
   ],
   window: {
     backgroundTextStyle: 'light',
-    navigationBarBackgroundColor: '#fff',
-    navigationBarTitleText: 'WeChat',
+    navigationBarBackgroundColor: '#951212FF',
+    navigationBarTitleText: 'MBTI 性格测试',
     navigationBarTextStyle: 'black'
   }
 })

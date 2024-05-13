@@ -1,4 +1,4 @@
-.indexPage {
+.resultPage {
   height: 100vh; /* 将容器高度设置为视口高度 */
   display: flex; /* 使用 flex 布局 */
   flex-direction: column; /* 垂直方向布局 */
@@ -7,16 +7,18 @@
   background-color: #bceec1;
 
   .title{
-    color:#fff;
-    padding-top: 36px;
-    margin-bottom: 96px;
-    text-align: center;
+    color: #6d717f;
+  }
+
+  .subTitle{
+    color: #525660;
   }
 
   .enterBtn{
-    width: 60vw;
-    min-width: 180px;
-    color: #afebb6;
+    margin-top:48px ;
   }
+
+
+
 }
 

@@ -1,0 +1,98 @@
+[
+  {
+    "resultName": "ISTJ",
+    "resultDesc": "忠诚可靠，被公认为务实，注重细节",
+    "resultPicture": null,
+    "resultProp": ["I", "S", "T", "J"]
+  },
+  {
+    "resultName": "ISFJ",
+    "resultDesc": "安静、友好、负责任，努力落实自己的职责",
+    "resultPicture": null,
+    "resultProp": ["I", "S", "F", "J"]
+  },
+  {
+    "resultName": "INFJ",
+    "resultDesc": "寻求内心深处的意义和关系，具有坚定的价值观和原则",
+    "resultPicture": null,
+    "resultProp": ["I", "N", "F", "J"]
+  },
+  {
+    "resultName": "INTJ",
+    "resultDesc": "专注于思考和规划，追求创新和实现目标",
+    "resultPicture": null,
+    "resultProp": ["I", "N", "T", "J"]
+  },
+  {
+    "resultName": "ISTP",
+    "resultDesc": "灵活、适应性强，善于发现问题的解决方案",
+    "resultPicture": null,
+    "resultProp": ["I", "S", "T", "P"]
+  },
+  {
+    "resultName": "ISFP",
+    "resultDesc": "热爱自由，富有创造性和艺术天赋",
+    "resultPicture": null,
+    "resultProp": ["I", "S", "F", "P"]
+  },
+  {
+    "resultName": "INFP",
+    "resultDesc": "理想主义者，对于自己的价值观和道德感非常重视",
+    "resultPicture": null,
+    "resultProp": ["I", "N", "F", "P"]
+  },
+  {
+    "resultName": "INTP",
+    "resultDesc": "思维敏捷，喜欢探索新的理论和想法",
+    "resultPicture": null,
+    "resultProp": ["I", "N", "T", "P"]
+  },
+  {
+    "resultName": "ESTP",
+    "resultDesc": "勇敢、实际，善于快速应对环境变化",
+    "resultPicture": null,
+    "resultProp": ["E", "S", "T", "P"]
+  },
+  {
+    "resultName": "ESFP",
+    "resultDesc": "热情、乐观，善于与他人建立联系",
+    "resultPicture": null,
+    "resultProp": ["E", "S", "F", "P"]
+  },
+  {
+    "resultName": "ENFP",
+    "resultDesc": "充满活力和想象力，喜欢激励和支持他人",
+    "resultPicture": null,
+    "resultProp": ["E", "N", "F", "P"]
+  },
+  {
+    "resultName": "ENTP",
+    "resultDesc": "富有创造力和挑战精神，喜欢探索新的思想和理念",
+    "resultPicture": null,
+    "resultProp": ["E", "N", "T", "P"]
+  },
+  {
+    "resultName": "ESTJ",
+    "resultDesc": "组织能力强，注重传统和秩序",
+    "resultPicture": null,
+    "resultProp": ["E", "S", "T", "J"]
+  },
+  {
+    "resultName": "ESFJ",
+    "resultDesc": "热心、负责任，关心他人的需求和感受",
+    "resultPicture": null,
+    "resultProp": ["E", "S", "F", "J"]
+  },
+  {
+    "resultName": "ENFJ",
+    "resultDesc": "富有同情心和理解力，善于影响和激励他人",
+    "resultPicture": null,
+    "resultProp": ["E", "N", "F", "J"]
+  },
+  {
+    "resultName": "ENTJ",
+    "resultDesc": "果断、目标导向，具有领导能力和组织能力",
+    "resultPicture": null,
+    "resultProp": ["E", "N", "T", "J"]
+  }
+]
